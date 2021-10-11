@@ -13,7 +13,6 @@
 .container {
     width: 80%;
     margin: auto;
-    background-color: lightcyan;
 }
 
 .first {
@@ -26,6 +25,10 @@
     background-color: yellow;
     height: 500px;
     margin-bottom: 20px;
+}
+
+main {
+    background-color: blue;
 }
 
 .title {
@@ -52,5 +55,5 @@
 }
 
 .footer {
-    background-color: blue;
+    background-color: lightpink;
     height: 150px;
