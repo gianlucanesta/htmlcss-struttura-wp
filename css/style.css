@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 .clearfix::after {
     content: "";
     display: table;
@@ -55,5 +56,6 @@ main {
 }
 
 .footer {
+    margin-top: 20px;
     background-color: lightpink;
     height: 150px;
